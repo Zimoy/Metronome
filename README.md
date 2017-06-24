@@ -11,4 +11,4 @@ Toyohashi OPen Platform for Embedded Real-time Systems (TOPPERS)
 
 が記載されています。
 
-workspace ディレクトリに clone することを前提にしています
+cygwin がインストールされたフォルダの直下に clone することを前提にしています

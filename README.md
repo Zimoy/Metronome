@@ -1,12 +1,12 @@
-# Metronome
+ï»¿# Metronome
 
-# ƒrƒ‹ƒhŠÂ‹« TOPPERS ‚É‚Â‚¢‚Ä
+# ãƒ“ãƒ«ãƒ‰ç’°å¢ƒ TOPPERS ã«ã¤ã„ã¦
 
 Toyohashi Open Platform for Embedded Real-time Systems (TOPPERS)
 - http://dev.toppers.jp/trac_user/ev3pf/wiki/WhatsEV3RT
 
-ã‹LƒTƒCƒg‚É
-- ŠJ”­ŠÂ‹«‚Ì\’zè‡A
-- ƒrƒ‹ƒhEÀs•û–@
-- 
-‚ª‹LÚ‚³‚ê‚Ä‚¢‚Ü‚·B
+ä¸Šè¨˜ã‚µã‚¤ãƒˆã«
+- é–‹ç™ºç’°å¢ƒã®æ§‹ç¯‰æ‰‹é †ã€
+- ãƒ“ãƒ«ãƒ‰ãƒ»å®Ÿè¡Œæ–¹æ³•
+
+ãŒè¨˜è¼‰ã•ã‚Œã¦ã„ã¾ã™ã€‚

@@ -10,3 +10,5 @@ Toyohashi OPen Platform for Embedded Real-time Systems (TOPPERS)
 - ビルド・実行方法
 
 が記載されています。
+
+workspace ディレクトリに clone することを前提にしています

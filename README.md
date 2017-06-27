@@ -15,14 +15,14 @@ Cygwin がインストールされたフォルダ直下に clone することを
 例．C:\cygwin\Metronome
 
 # 開発について
-各プロジェクトは、sdk/workspace 以下に作成する。  
-例．sdk\workspace\helloev3  
+各プロジェクトは、sdk/workspace 以下に作成する。  
+例．sdk\workspace\helloev3  
 https://github.com/Zimoy/Metronome/tree/master/sdk/workspace  
-  
+
 一応、プロジェクト内でフォルダ分けできるようにカスタマイズ済み。
 
 
 # ビルド手順
-下記のページに記載されている。  
+下記のページに記載されている。  
 http://dev.toppers.jp/trac_user/ev3pf/wiki/SampleProgram#サンプルアプリケーションのビルドと実行
 

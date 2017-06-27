@@ -14,8 +14,9 @@ Toyohashi OPen Platform for Embedded Real-time Systems (TOPPERS)
 Cygwin がインストールされたフォルダ直下に clone することを前提とする。  
 例．C:\cygwin\Metronome
 
-各プロジェクトは、sdk/workspace 以下に作成する。  
-例．sdk\workspace\helloev3  
+# 開発について
+各プロジェクトは、sdk/workspace 以下に作成する。  
+例．sdk\workspace\helloev3  
 https://github.com/Zimoy/Metronome/tree/master/sdk/workspace  
   
 一応、プロジェクト内でフォルダ分けできるようにカスタマイズ済み。
